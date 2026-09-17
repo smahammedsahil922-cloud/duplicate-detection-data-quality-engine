@@ -1,0 +1,11 @@
+﻿member_id,member_name,email,phone,age,gender,city,membership_type,join_date,is_active
+33554,Ali Sharma,member33554@example.com,9933290996,35,Female,Kadapa,Silver,2024-12-23,Yes
+9428,Priya Khan,member9428@example.com,9546517585,37,Female,Nellore,Regular,2024-12-05,Yes
+200,Divya Kumar,member200@example.com,9896204523,22,Male,Nellore,Regular,2022-12-27,Yes
+12448,Varun Gupta,member12448@example.com,9362096409,22,Male,Tirupati,Platinum,2020-09-14,Yes
+39490,Meena Reddy,member39490@example.com,9467404712,34,Other,Guntur,Silver,2025-07-14,Yes
+42725,Arjun Das,member42725@example.com,9994567036,40,Female,Hyderabad,Silver,2020-10-19,No
+10823,Sahil Das,member10823@example.com,9914803757,30,Male,Kadapa,Gold,2020-02-20,Yes
+14494,Ayesha Khan,member14494@example.com,9435849968,57,Male,Chennai,Silver,2019-01-25,Yes
+4145,Sahil Verma,member4145@example.com,9563149876,58,Male,Bengaluru,Regular,2023-12-16,Yes
+36959,Kiran Das,member36959@example.com,9914444446,32,Male,Guntur,Regular,2019-02-28,Yes
